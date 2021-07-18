@@ -1,7 +1,7 @@
 {
-  "name": "base-preact-cycle",
+  "name": "bch_space",
   "description": "",
-  "repository": "https://github.com/blakelapierre/base-preact-cycle",
+  "repository": "https://github.com/blakelapierre/bch_space",
   "version": "0.0.1",
   "dependencies": {
     "bitcore-lib-cash": "^8.5.1",
